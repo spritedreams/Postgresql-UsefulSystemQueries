@@ -1,2 +1,1 @@
-# Postgresql-UsefulSystemQueries
-Some useful system info queries
+Save useful queries
